@@ -1,0 +1,53 @@
+[
+  {
+  "name" : "Cow",
+  "id" : 1,
+  "description" : "Cows are black and white livestock that are used primarily for meat and milk."
+  },
+  {
+  "name" : "Horse",
+  "id" : 2,
+  "description" : "Horses are various colored animals that are used for mainly transportation."
+  },
+  {
+  "name" : "Pig",
+  "id" : 3,
+  "description" : "Pigs are four-legged animals that are used for meat."
+  },
+  {
+  "name" : "Chicken",
+  "id" : 4,
+  "description" : "Chickens are various colored animals that are used for meat."
+  },
+  {
+  "name" : "Fish",
+  "id" : 5,
+  "description" : "Fishes are various colored animals that can be used as pets or meat as well."
+  },
+  {
+  "name" : "Cat",
+  "id" : 6,
+  "description" : "Cats can be various in color and are used primarily as housepets."
+  },
+  {
+  "name" : "Dog",
+  "id" : 7,
+  "description" : "Dogs can be various in color and are used primarily as housepets."
+  },
+  {
+  "name" : "Bird",
+  "id" : 8,
+  "description" : "Birds are often quite various in color and can be found all across the earth."
+  },
+  {
+  "name" : "Mouse",
+  "id" : 9,
+  "description" : "Mice are part of the rodent family and play a vital role in the food chain."
+  },
+  {
+  "name" : "Hamster",
+  "id" : 0,
+  "description" : "Hamsters range from white color to black and can be used as housepets."
+  },
+]
+  
